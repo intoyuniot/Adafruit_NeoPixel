@@ -1,0 +1,16 @@
+{
+    "name": "Adafruit_NeoPixel",
+    "version": "1.0.0",
+    "keywords": "Ws2812,WS2811,WS2812B,TM1803,TM1829",
+    "description": "Adafruit NeoPixel(WS2811/12/12B和TM1803/1829驱动芯片）RGB LED灯条驱动库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/Adafruit_NeoPixel.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
